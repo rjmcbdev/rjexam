@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrjexam"]=self["webpackChunkrjexam"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return l}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),s=[t];function c(n,a){return(0,r.wg)(),(0,r.iD)("div",u,s)}var i=e(89);const o={},f=(0,i.Z)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.a5aaba22.js.map
